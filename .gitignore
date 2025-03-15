@@ -1,0 +1,4 @@
+client-vite/node_modules/
+client-vite/dist/
+client-vite/.env
+client-vite/package-lock.json
